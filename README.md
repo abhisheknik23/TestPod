@@ -19,11 +19,3 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'TestPod'
 ```
-
-## Author
-
-abhisheknik23@gmail.com, abhishek.gupta@cura.tech
-
-## License
-
-TestPod is available under the MIT license. See the LICENSE file for more info.
