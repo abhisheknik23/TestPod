@@ -26,7 +26,7 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'abhisheknik23@gmail.com' => 'abhishek.gupta@cura.tech' }
   s.source           = { :git => 'https://github.com/abhisheknik23@gmail.com/TestPod.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  # s.social_media_url = 'https://twitter.com/abhisheknik23'
 
   s.ios.deployment_target = '8.0'
 
